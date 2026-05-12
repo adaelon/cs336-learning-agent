@@ -1,0 +1,5 @@
+› 请严格读取并遵循 .codex/skills/cs336-lecture-deconstruction.md 中定义的核心思想与护栏机制，
+然后严格执行 .codex/commands/deconstruct.md 中的 SOP 编排指令。
+
+当前目标参数 $ARGUMENTS 为 lecture_01。
+请读取 lecture/lecture_01.md 的完整内容，按步骤完成拆解，并生成 Phase 1 和 Phase 2 的 Markdown 产物至 output/cs336/lecture_01/ 目录下。
