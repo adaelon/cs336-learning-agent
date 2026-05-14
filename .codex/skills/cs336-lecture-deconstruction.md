@@ -12,7 +12,7 @@
 
 
 ## Pipeline Phases
-1. Phase 0: Local lecture data ingestion (`E:\allwork\cs336\lecture\$ARGUMENTS.md`)
+1. Phase 0: Local lecture data ingestion and historical State (N-1 Dependency)
 2. Phase 1: Agent A (Architect) structural & technical extraction (`shared/agents/agentA.md`)
 3. Phase 2: Agent B (Educator) cognitive synthesis & mental modeling (`shared/agents/agentB.md`)
 4. Phase 3: Dual-Agent Socratic Q&A loop (Interactive chat interface)

@@ -1,0 +1,4 @@
+› 请严格读取并遵循 .codex/skills/cs336-lecture-deconstruction.md 中定义的核心思想与护栏机制，
+然后严格执行 .codex/commands/deconstruct.md 中的 SOP 编排指令。
+
+当前目标参数 $ARGUMENTS 为 lecture_03。

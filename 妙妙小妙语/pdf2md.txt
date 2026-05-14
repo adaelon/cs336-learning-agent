@@ -1,0 +1,1 @@
+marker_single E:\allwork\cs336\lecture\lecture_03.pdf --output_dir E:\allwork\cs336\lecture\ --output_format markdown --paginate_output
